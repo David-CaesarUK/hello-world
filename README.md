@@ -1,4 +1,7 @@
 hello-world
 ===========
 
-This is my first repository on here
+Hi people,
+
+This is a test commit message
+
